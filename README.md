@@ -32,7 +32,12 @@ This paper presents a **distributed IDS model** that leverages **trust-based mec
 - **Bardia Javadi**  
   *Undergraduate Student, University of Isfahan*  
   GitHub: [@bardiw](https://github.com/bardiw)
-
+- **Ali Kasiri**  
+  *Undergraduate Student, University of Isfahan*  
+  GitHub: [@alikasiri1](https://github.com/alikasiri1)
+  - **Hamid Mehranfar**  
+  *Undergraduate Student, University of Isfahan*  
+  GitHub: [@hamidmehranfar](https://github.com/hamidmehranfar)
 ## 📌 Course Info
 
 - 📘 **Course**: Fundamentals of Internet of Things  
