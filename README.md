@@ -39,17 +39,6 @@ This paper presents a **distributed IDS model** that leverages **trust-based mec
 
 - 📘 **Course**: Fundamentals of Internet of Things  
 - 🏫 **University**: University of Isfahan  
-- 👨‍🏫 **Instructor**: [Instructor’s name, optional]  
+- 👨‍🏫 **Instructor**: Prof.Bateni 
 - 📅 **Semester**: Summer 2025
 
-## 📄 Citation
-
-If you wish to cite this work:
-
-```bibtex
-@misc{javadi2025trust,
-  title={A Trust-Based Distributed Intrusion Detection Mechanism for Internet of Things},
-  author={Javadi, Bardia},
-  year={2025},
-  note={Term Paper, University of Isfahan}
-}
