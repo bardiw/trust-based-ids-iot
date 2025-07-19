@@ -35,7 +35,7 @@ This paper presents a **distributed IDS model** that leverages **trust-based mec
 - **Ali Kasiri**  
   *Undergraduate Student, University of Isfahan*  
   GitHub: [@alikasiri1](https://github.com/alikasiri1)
-  - **Hamid Mehranfar**  
+- **Hamid Mehranfar**  
   *Undergraduate Student, University of Isfahan*  
   GitHub: [@hamidmehranfar](https://github.com/hamidmehranfar)
 ## 📌 Course Info
