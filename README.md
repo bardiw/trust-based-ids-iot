@@ -18,9 +18,7 @@ This paper presents a **distributed IDS model** that leverages **trust-based mec
 ## 📚 Contents
 
 - `paper.pdf`: The final version of the term paper.
-- `presentation.pptx`: Optional presentation slides (if available).
 - `references.bib`: Bibliographic references used in the paper.
-- `data/` *(optional)*: Any datasets or simulations used (if applicable).
 
 ## 🛠️ Tools & Technologies
 
